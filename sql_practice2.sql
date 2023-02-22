@@ -1,1 +1,1 @@
-select * from school;
+select * from scl;
